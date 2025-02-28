@@ -1,0 +1,1 @@
+console.log("PoE 2 Farming Bot is active!");
